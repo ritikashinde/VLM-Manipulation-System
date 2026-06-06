@@ -3,7 +3,7 @@ from transformers import AutoModelForVision2Seq, AutoProcessor, BitsAndBytesConf
 
 # 1. SETUP
 MODEL_ID = "openvla/openvla-7b"
-HF_TOKEN = "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"
+HF_TOKEN = "xxxxxxxxxxxxxxxxxx"  (replace your hf token)
 
 print(f"Attempting to load {MODEL_ID}...")
 
