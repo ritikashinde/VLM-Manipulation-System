@@ -1,16 +1,8 @@
 # VLM Manipulation System
-<p align="center">
-  <img src="simulation_demo.gif" width="850">
-</p>
-
-<p align="center">
-  <em>Vision-Language guided robotic manipulation using OpenVLA and PyBullet.</em>
-</p>
-
 A Vision-Language Manipulation System that combines OpenVLA, computer vision, inverse kinematics, and robotic control to perform autonomous pick-and-place tasks in a PyBullet simulation environment.
 
 <p align="center">
-  <img src="simulation_demo.gif" width="850">
+  <img src="simulation_demo.gif" width="60%">
 </p>
 
 <p align="center">
@@ -41,17 +33,6 @@ The objective is to demonstrate how modern multimodal AI systems can bridge perc
 
 ---
 
-## Demo
-
-### Robot Workspace
-
-<img src="robot_workspace.png" width="700">
-
-### Pick and Place Execution
-
-<img src="pick and place action.png" width="700">
-
----
 
 ## System Pipeline
 
